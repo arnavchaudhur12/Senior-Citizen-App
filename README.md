@@ -1,6 +1,6 @@
 # Senior Citizen App
 
-This is the readme file for the project CareBridge. The project is developed by G05-G for the course CSCI 5708 Mobile Computing at Dalhousie University.
+This is the readme file for the project SeniorCitizen APP.
 
 ## Authors
 -Arnab Choudhury(workwitharnab24@gmail.com)
@@ -44,96 +44,28 @@ The application also has a Volunteer Module that allows volunteers to connect wi
 
 ### Login & Sign-Up
 
-  <!-- <p align='center'>
-  <img src='imgs/home.png' alt='LoginScreen' height='400px' >
-</p> -->
-  <p align='center' style='margin-top: 30px;'>
-  <img src='assets/Login.png' alt='LoginScreen' height='400px' style="margin-right:30px">
-  <img src='assets/signup.png' alt='androidScreen' height='400px' style="margin-right:30px">
-  </p>
+![image](https://github.com/user-attachments/assets/6ad3cd24-7d94-4baf-b66d-08684f26506a)
+
 
 ### Senior - Add Items
 
-  <p align='center' style='margin-top: 30px;'>
-  <img src='assets/ItemsList.png' alt='Items' height='400px' style="margin-right:30px">
-  <img src='assets/additem.png' alt='AddItem' height='400px' style="margin-right:30px">
-  </p>
-  <p align='center'>
-  <img src='assets/edititem.png' alt='edit' height='400px' >
-</p>
+  ![image](https://github.com/user-attachments/assets/4702e262-9f74-423e-b0a7-64fe3cb58949)
+
 
 ### Senior - Navigation Menu
 
-<p align='center'>
-  <img src='assets/navbar.png' alt='navbar' height='400px' >
-</p>
+![image](https://github.com/user-attachments/assets/93a8dac9-9537-408d-8f8f-5ffd063aabf6)
+
 
 ### Senior - Reminder
 
-<p align='center'>
-  <img src='assets/reminder.png' alt='navbar' height='400px' >
-</p>
+![image](https://github.com/user-attachments/assets/25727fce-46fb-402a-9801-41c330c57d97)
+
 
 ### Volunteer
 
-<p align='center'>
-  <img src='assets/vol_nav.png' alt='vol_nav' height='400px' >
-</p>
+![image](https://github.com/user-attachments/assets/9a69de5f-4f8a-47f8-8805-8d9a9c54ce43)
 
-### Volunteer - Profile
-
- <p align='center' style='margin-top: 30px;'>
-  <img src='assets/vol_profile.png' alt='vol_profile' height='400px' style="margin-right:30px">
-  <img src='assets/vol_edit_profile.png' alt='vol_edit_profile' height='400px' style="margin-right:30px">
-  </p>
-
-### Volunteer - Slot Availibility
-
-<p align='center'>
-  <img src='assets/vol_slot_avail.png' alt='vol_slot_avail' height='400px' >
-</p>
-
-### Volunteer - Current Booking
-
-<p align='center'>
-  <img src='assets/Current_Booking_Volunteer.png' alt='Current_Booking_Volunteer' height='400px' >
-</p>
-
-### Family, Friends - No Senior citizen added
-
-<p align='center'>
-  <img src='assets/familyview1.png' alt='familyview1' height='400px' >
-</p>
-
-### Family, Friends - Add existing senior citizen
-
-<p align='center'>
-  <img src='assets/addscfamily.png' alt='familyview1' height='400px' >
-</p>
-
-### Family, Friends - existing senior citizen (Search & list)
-
-<p align='center'>
-  <img src='assets/familyscsearch.png' alt='familyview1' height='400px' >
-</p>
-
-### Family, Friends - Add new senior citizen
-
-<p align='center'>
-  <img src='assets/scnewadd.png' alt='familyview1' height='400px' >
-</p>
-
-### Family, Friends - Added senior citizen
-
-<p align='center'>
-  <img src='assets/scadded.png' alt='familyview1' height='400px' >
-</p>
-
-### Family, Friends - Profile
-
-<p align='center'>
-  <img src='assets/familyprofile.png' alt='familyview1' height='400px' >
-</p>
 
 ## Technologies Used
 
@@ -156,4 +88,4 @@ The application also has a Volunteer Module that allows volunteers to connect wi
 - [Firebase Storage for pdf](https://firebase.google.com/docs/storage/android/upload-files) - Firebase Documentation
 - [Broadcast Receiver – Boot Completed](https://www.geeksforgeeks.org/broadcast-receiver-in-android-with-example/) - GeeksforGeeks
 - [Foreground Service](https://developer.android.com/develop/background-work/services/foreground-services) - Android Developers
-# carebridge
+# Senior Citizen App
